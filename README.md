@@ -8,7 +8,7 @@ Hi, I'm silkcut. You might recognize me as GitHub's mascot.
 |     2| PHP    |
 |     3| Golang       |
 
-## focus
+## Focus
 Now focus on AI, like langchain, llm, vits and so on
 
 <!--
