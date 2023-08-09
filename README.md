@@ -7,6 +7,7 @@ Hi, I'm silkcut. You might recognize me as GitHub's mascot.
 |     1| C/C++|
 |     2| PHP    |
 |     3| Golang       |
+|     4| Python       |
 
 ## Focus
 Now focus on AI, like langchain, llm, vits and so on
