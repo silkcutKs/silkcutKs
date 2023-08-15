@@ -1,6 +1,6 @@
 ## About me
 
-Hi, I'm silkcut. You might recognize me as GitHub's mascot.
+Hi, I'm silkcut. You might recognize me as GitHub's developer.
 
 | Rank | Languages |
 |-----:|-----------|
@@ -10,7 +10,7 @@ Hi, I'm silkcut. You might recognize me as GitHub's mascot.
 |     4| Python       |
 
 ## Focus
-Now focus on AI, like langchain, llm, vits and so on
+Now focus on AI
 
 <!--
 **silkcutKs/silkcutKs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
